@@ -15,7 +15,7 @@ print()
 print("Try to figure out how this works")
 print(13%12)
 
-# thhe "%" sign is a modulus. It finds the remainder
+# the "%" sign is a modulus. It finds the remainder
 
 car_name= "Wiebe Mobile"
 car_type= "BMW"
@@ -30,5 +30,5 @@ print("What is your name?")
 name= input(">_")
 print("Hello %s." % name)
 
-age = input("How old are you?)
-print("%S?! That's really old. You belong in a retirment home.")
+age = input("How old are you?")
+print("%S?! That's really old. You belong in a retirement home.")
